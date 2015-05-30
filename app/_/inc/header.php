@@ -40,7 +40,7 @@
                         </ul>
                     </li>
                     <li id="menu-item-5899" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5880 current_page_item menu-item-5899"><a href="doctors.php"><span>Doctors</span></a></li>
-                    <li id="menu-item-5911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5911"><a href="appointments.php"><span>Appointments</span></a></li>
+                    <li id="menu-item-5911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5911"><a href="appointments.php"><span>Patient Portal</span></a></li>
                     <li id="menu-item-5911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5911"><a href="contactus.php"><span>Contact Us</span></a></li>
                 </ul>
                 <div class="cl"></div>
